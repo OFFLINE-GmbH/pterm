@@ -1,4 +1,4 @@
-module github.com/pterm/pterm
+module github.com/OFFLINE-GmbH/pterm
 
 go 1.21
 
